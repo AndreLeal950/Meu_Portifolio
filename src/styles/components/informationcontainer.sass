@@ -10,6 +10,7 @@
     text-align: left
     width: 80%
     border-radius: variables.$card-border-radius
+    font-size: .8rem
 
     .info-card
         @include mixins.center
@@ -38,9 +39,21 @@
 
         #phone-icon
             color: #e90b81
+            @media ( min-width: 320px )
+                width: 3rem
+            @media ( min-width: 568px )
+                width: 3rem
 
         #email-icon
             color: #6ab5b9
+            @media ( min-width: 320px )
+                width: 3rem
+            @media ( min-width: 568px )
+                width: 3rem
 
         #pin-icon
             color: #c17ceb
+            @media ( min-width: 320px )
+                width: 3rem
+            @media ( min-width: 568px )
+                width: 3rem
