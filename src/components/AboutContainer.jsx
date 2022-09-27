@@ -10,9 +10,9 @@ const AboutContainer = () => {
         virar a chave. Hoje estou em busca de uma recolocação no mercado de trabalho,
         como desenvolvedor, acredito que muito em breve, serei contemplado com essa tão
         sonhada vaga. Trago comigo, experiências vividas em várias empresas. Mas em todas
-        eu sempre mative a disciplina, comprometimento, assiduidade, responsabilidade e
+        eu sempre mantive a disciplina, comprometimento, assiduidade, responsabilidade e
         sentimento de dono. Levarei para a nova empresa, toda essa bagagem e muitos outros
-        conhecimentos  técnicos adquiridos através de vários cursos, os quais descrevo nos próximos tópicos.
+        conhecimentos técnicos adquiridos através de vários cursos, os quais descrevo nos próximos tópicos.
         
       </p>
    
